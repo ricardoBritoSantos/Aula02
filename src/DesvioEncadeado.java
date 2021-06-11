@@ -14,7 +14,6 @@ public class DesvioEncadeado {
 	
 		/*Aqui devemos criar uma solução para realizar as verificações.*/
 		
-		
 	
 		leitor.close();
 
